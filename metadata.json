@@ -1,0 +1,6 @@
+{
+  "name": "AiViQo Document Intelligence",
+  "description": "Production-grade document intelligence, OCR parsing, evidence canvas, and schema-driven extraction platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
